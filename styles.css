@@ -1,3 +1,4 @@
+/*definições globais*/
 body {
     background-image: radial-gradient(circle at 130.82% 0.45%,#ff7f85 0, #ff748c 8.33%, #ff6994 16.67%, #ff5d9c 25%, #ff52a4 33.33%, #ff47ad 41.67%, #f23cb5 50%, #e234be 58.33%, #cf32c8 66.67%, #b935d2 75%, #9f3bdb 83.33%, #7e42e5 91.67%, #514aed 100%);
     margin-top: 1%;
@@ -29,6 +30,7 @@ button {
     font-weight: bold;
 }
 
+/*definições especificas dos elementos do@ cabeçalho*/
 #logo { 
     position:absolute;
     margin:10px
@@ -58,6 +60,7 @@ b.header {
     position: absolute;
 }
 
+/*definições especificas dos elementos do formulário de cadastro de dados*/
 #formularioCadastro {
     background-image: url();
     height: 450px;
@@ -95,13 +98,6 @@ p.formulario {
     font-size: 15px;
 }
 
-#circulo { 
-    width: 350px;
-    height: 300px;
-    margin: 15% 60%; 
-    position: absolute;
-}
-
 button.inicio {
     background-color: rgb(36, 8, 88);
     color: white;
@@ -129,3 +125,10 @@ button.enviar{
     background-color: rgb(211, 39, 91);
 }
 
+/*denições da imagem de conteúdo*/
+#circulo { 
+    width: 350px;
+    height: 300px;
+    margin: 15% 60%; 
+    position: absolute;
+}
