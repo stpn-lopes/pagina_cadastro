@@ -22,11 +22,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
  ![HTML](https://img.shields.io/badge/-HTML-000080?style=for-the-badge&logo=html5&logoColor=00CED1&labelColor=1f004e&color=483D8B)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-000080?style=for-the-badge&logo=CSS3&logoColor=00CED1&labelColor=1f004e&color=483D8B)&nbsp;
 
-### Recursos
+### Funcionalidades
 
 - [x] Interface de cadastro de novo usuário
 - [x] Área de login
 - [x] Botões do menu
+- [x] Nome, logo da entidade fictícia
 - [ ] Interatividade
 
 <div align=right>
