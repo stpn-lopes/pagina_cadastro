@@ -23,25 +23,54 @@ header {
 
 button {
     border-radius: 50px;
-    height: 30px;
+    height: 35px;
     width: 100px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
 
-/*definições especificas dos elementos do@ cabeçalho*/
+/*definições especificas dos elementos do cabeçalho*/
 #logo { 
     position:absolute;
     margin:10px
 }
 
-input.login {
-    width: 150px;
+#divLogin {
+    height: 250px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: -45px;
+    position: absolute;
+    padding: 0px;
+}
+
+#divmenu {
+    width: 450px;
     height: 20px;
     border-radius: 20px;
-    padding-left: 17px;
+    padding-top: 0px;
+    margin-left: 450px;
+    margin-top: -20px;
     border-color:rgb(36, 8, 88);
+}
+
+button.inicio {
+    margin-top: 1px;
+    margin-left: 15px;
+}
+
+#btnQuemSomos {
+    height: 37px;
+    width: 140px;
+}
+
+
+input.login {
+    border-radius: 25px;
+    font-style: italic;
+    padding-left: 8px;
+    width: 150px;
 }
 
 b.login {
@@ -49,7 +78,14 @@ b.login {
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     color: rgb(255, 255, 255);
+}
 
+#btnLogin {
+    margin: -1.3% 80%;
+    width: 75px;
+    height: 27px;
+    text-align: center;
+    position: absolute;
 }
 
 b.header {
@@ -103,7 +139,7 @@ button.inicio {
     color: white;
 }
 
-input.inicio {
+input.inicio, input.login {
     border-color: rgb(36, 8, 88);
 }
 
@@ -129,6 +165,6 @@ button.enviar{
 #circulo { 
     width: 350px;
     height: 300px;
-    margin: 15% 60%; 
+    margin: 18% 60%; 
     position: absolute;
 }
