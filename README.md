@@ -10,7 +10,7 @@
 
 ##
 <h1 align="center">
-  <img alt="interface de um site Web de cadastro de novos usuarios" title="example" src="https://user-images.githubusercontent.com/91392505/156716629-c59231da-4859-4a4a-83a6-dfc6da772d80.png" />
+  <img alt="interface de um site Web de cadastro de novos usuarios" title="example" src="https://github.com/stpn-lopes/pagina_cadastro/blob/master/img/example.png?raw=true" />
 </h1>
 
 ### Tecnologias
