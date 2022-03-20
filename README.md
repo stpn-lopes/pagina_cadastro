@@ -7,10 +7,10 @@
 ### 📑 Sumário
 
 <ul>
-	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#objetivo">Objetivo</a></li>
-	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#tecnologias-usadas">Tecnologias usadas</a></li>
-	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#funcionalidades">Funcionalidade</a></li>
-	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#conte%C3%BAdos-aprendidos">Conteúdos aprendidos</a></li>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro#--objetivo">Objetivo</a></li>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro#tecnologias-usadas">Tecnologias usadas</a></li>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro#funcionalidades">Funcionalidade</a></li>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro#conte%C3%BAdos-aprendidos">Conteúdos aprendidos</a></li>
 </ul>
 <br>
 
