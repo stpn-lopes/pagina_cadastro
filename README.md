@@ -4,7 +4,7 @@
 	🚧  Em construção...  🚧
 </h4>
 
-### 📑 Súmario
+### 📑 Sumário
 
 <ul>
 	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#objetivo">Objetivo</a></li>
