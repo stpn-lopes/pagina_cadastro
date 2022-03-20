@@ -4,16 +4,27 @@
 	🚧  Em construção...  🚧
 </h4>
 
-### Objetivo
+### 📑 Súmario
 
-<p> Projeto criado usando das linguagens de marcação HTML e CSS, onde foi desenvolvido a interface de uma página web de cadastro através dos conhecimentos adquiridos com os estudos de Desenvolvimento Web. </p>
+<ul>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#objetivo">Objetivo</a></li>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#tecnologias-usadas">Tecnologias usadas</a></li>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#funcionalidades">Funcionalidade</a></li>
+	<li><a href="https://github.com/stpn-lopes/pagina_cadastro/edit/master/README.md#conte%C3%BAdos-aprendidos">Conteúdos aprendidos</a></li>
+</ul>
+<br>
 
 ##
+
+### 🎯  Objetivo
+
+<p> Projeto criado usando das linguagens de marcação HTML e CSS, onde foi desenvolvido a interface de uma página web de cadastro através dos conhecimentos adquiridos com os estudos de Desenvolvimento Web, com o intuito de colocar em prática aquilo a que vem aprendendo. </p>
+
 <h1 align="center">
   <img alt="interface de um site Web de cadastro de novos usuarios" title="example" src="https://github.com/stpn-lopes/pagina_cadastro/blob/master/img/example.png?raw=true" />
 </h1>
 
-### Tecnologias
+### Tecnologias usadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -21,6 +32,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
  ![Git](https://img.shields.io/badge/-Git-000080?style=for-the-badge&logo=git&logoColor=00CED1&labelColor=1f004e&color=483D8B)&nbsp;
  ![HTML](https://img.shields.io/badge/-HTML-000080?style=for-the-badge&logo=html5&logoColor=00CED1&labelColor=1f004e&color=483D8B)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-000080?style=for-the-badge&logo=CSS3&logoColor=00CED1&labelColor=1f004e&color=483D8B)&nbsp;
+
+## 
 
 ### Funcionalidades
 
@@ -30,6 +43,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Nome, logo da entidade fictícia
 - [ ] Interatividade
 
+##
+
+### Conteúdos aprendidos
+
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/button" target=" _blank">Tipos de buttons</a>
+- <a href="https://satellasoft.com/artigo/css/estilizando-botoes-com-css" target=" _blank">Estilizar buttons com o CSS3</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input" target=" _blank">Tipos de inputs</a>
+- <a href="https://youtu.be/NRSr4V3RN9I" target=" _blank">Estilizar inputs com o CSS3</a>
+- <a href="https://mybrandnewlogo.com/pt/gerador-de-gradiente-de-cor" target=" _blank">Usando gradiente para definir cores</a>
+
+	
 <div align=right>
 
 Feito com ❤️ por <br> <br>
